@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>hello world</title>
 </head>
 <body>
 <a href="hi"> Click for Example of web MVC Using Spring Annotation</a>
